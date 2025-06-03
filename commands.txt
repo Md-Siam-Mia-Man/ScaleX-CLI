@@ -1,0 +1,1 @@
+python inference_scalex.py -i Input -o Output -f v1.4 -b x4 -s 4
