@@ -7,7 +7,7 @@
 Zap those pixels! ScaleX is your command-line buddy for making faces look ✨ FABULOUS ✨ using AI smarts. Built on cool tech like GFPGAN & Real-ESRGAN, but now with Python 3.12 super-speed, a slick CLI, and zero setup headaches!
 
 ## 🗂 Quick Guide Menu
-- 📖 [WTF is ScaleX?](#-wtf-is-scalex)
+- 📖 [What is ScaleX?](#-what-is-scalex)
 - ✨ [Super Powers!](#-super-powers)
 - 🛠️ [Get This Thing Installed!](#️-get-this-thing-installed)
   - 📋 [Stuff You Need First](#-stuff-you-need-first)
@@ -22,7 +22,7 @@ Zap those pixels! ScaleX is your command-line buddy for making faces look ✨ FA
 
 ---
 
-## 📖 WTF is ScaleX?
+## 📖 What is ScaleX?
 ScaleX turbocharges your old, blurry, or just plain sad-looking photos right from your terminal! 命令行里的魔法棒! 🪄 It uses AI brains (🧠 GFPGAN & Real-ESRGAN) to make faces pop and backgrounds beautiful. This ain't your grandma's photo editor (unless she's a Python 3.12 coding wizard with a slick CLI 😉). We've made it easy, fast, and fixed those annoying bugs for ya! 🐞➡️🦋
 
 ---
