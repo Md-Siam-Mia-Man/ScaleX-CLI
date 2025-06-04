@@ -37,7 +37,7 @@ ScaleX turbocharges your old, blurry, or just plain sad-looking photos right fro
 - 🎯 **Already Aligned?** Got 512x512 faces? We gotchu. 👍
 - ⚙️ **Device Freedom!** CPU 🐢, CUDA 🚀, MPS 🍎 - your choice!
 - 📝 **Your Style:** Custom file names & types.
-- 📊 **Cool Progress Bars:** Watch the magic happen!  ProgressBarGoBrrr.gif
+- 📊 **Cool Progress Bars:** Watch the magic happen!
 - 🔧 **Auto-Fixer-Upper:** No more weird `torchvision` drama! 😌
 
 ---
