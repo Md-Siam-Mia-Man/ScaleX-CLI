@@ -46,7 +46,6 @@ ScaleX brings cutting-edge AI face restoration to your command line. Whether you
 - 🔥 [PyTorch](https://pytorch.org/) (Installation instructions below)
 - ❗ **For GPU Acceleration (Optional but Recommended):**
     - NVIDIA GPU + Up-to-date [CUDA Drivers](https://www.nvidia.com/Download/index.aspx)
-    - OR Apple Silicon Mac for MPS support.
 
 ### 💾 Steps
 1.  **Clone the Repository**
@@ -102,7 +101,7 @@ python inference_scalex.py -i MyPhotos/ -o EnhancedPhotos/ -f v1.4 -b x4 -s 4
 
 ### ⚙️ Key Options
 *   `-i, --input PATH`: **Required.** Path to your input image or a folder containing images.
-*   `-o, --output PATH`: Folder where results will be saved. (Default: `results_scalex`)
+*   `-o, --output PATH`: Folder where results will be saved. (Default: `Output`)
 *   `-f, --face-enhance [v1.3|v1.4]`: Choose the GFPGAN model for face restoration. (Default: `v1.4`)
 *   `-b, --bg-enhance [none|x2|x4]`: Background enhancement model.
     *   `none`: No background processing.
