@@ -238,4 +238,4 @@ _(Note: The underlying models and libraries (GFPGAN, Real-ESRGAN, etc.) have the
 
 ---
 
-❤️ _Happy Enhancing with ScaleX!_
+# ❤️ _Happy Enhancing with ScaleX!_
